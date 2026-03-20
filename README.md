@@ -36,3 +36,5 @@ ai-sales-assistant/
 ├── .env # API keys
 ├── requirements.txt                                    
 └── README.md
+
+Author:- Shashwat Raj

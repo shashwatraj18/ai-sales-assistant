@@ -1,0 +1,20 @@
+# Core data processing
+pandas>=2.2.0
+numpy>=1.26.0
+
+# Database
+sqlalchemy>=2.0.25
+
+# Visualization & UI
+plotly>=5.18.0
+streamlit>=1.32.0
+
+# Machine learning & forecasting
+scikit-learn>=1.4.0
+
+# Environment loading (utils.config also has a zero-dependency fallback parser)
+python-dotenv>=1.0.1
+
+# --- Optional: only needed for real LLM-backed AI Insights ---
+# The app runs fully without this, using the built-in rule-based engine.
+# openai>=1.12.0
